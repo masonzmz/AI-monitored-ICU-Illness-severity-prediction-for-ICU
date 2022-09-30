@@ -1,7 +1,7 @@
 # AI‑monitored‑ICU‑Illness‑severity‑prediction‑for‑ICU
 
 ## MSNETs -> RNN / GRU / LSTM
-![structure](img/layer.png)
+![structure](img/structure.png)
 # Set-up
 ## Operation System:
 ![macOS Badge](https://img.shields.io/badge/-macOS-white?style=flat-square&logo=macOS&logoColor=000000) ![Linux Badge](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux&logoColor=FCC624) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-white?style=flat-square&logo=Ubuntu&logoColor=E95420)
