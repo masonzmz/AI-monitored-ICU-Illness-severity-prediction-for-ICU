@@ -1,4 +1,5 @@
 # AI‑monitored‑ICU‑Illness‑severity‑prediction‑for‑ICU
+Predicting a patient's SOFA score for the next 24 or 48 hours.
 
 ## MSNETs -> RNN / GRU / LSTM
 ![structure](img/structure.png)
